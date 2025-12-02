@@ -1,0 +1,16 @@
+{
+  "name": "linear-import-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "import": "linear-import"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.1",
+  "dependencies": {
+    "@linear/import": "^2.2.46"
+  }
+}
